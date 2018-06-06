@@ -1,0 +1,22 @@
+C:\Projects\LTWindows\QLBanHang\QLBanHang\obj\x86\Debug\QLBanHang.frmMatHang.resources
+C:\Projects\LTWindows\QLBanHang\QLBanHang\obj\x86\Debug\QLBanHang.Properties.Resources.resources
+C:\Projects\LTWindows\QLBanHang\QLBanHang\obj\x86\Debug\QLBanHang.csproj.GenerateResource.Cache
+C:\Projects\LTWindows\QLBanHang\QLBanHang\bin\Debug\QLBanHang.mdf
+C:\Projects\LTWindows\QLBanHang\QLBanHang\bin\Debug\QLBanHang_log.ldf
+C:\Projects\LTWindows\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+C:\Projects\LTWindows\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+C:\Projects\LTWindows\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+C:\Projects\LTWindows\QLBanHang\QLBanHang\obj\x86\Debug\QLBanHang.exe
+C:\Projects\LTWindows\QLBanHang\QLBanHang\obj\x86\Debug\QLBanHang.pdb
+C:\Projects\LTWindows\QLBanHang\QLBanHang\obj\x86\Debug\QLBanHang.csprojResolveAssemblyReference.cache
+C:\Users\VuDat\Documents\Visual Studio 2013\Projects\[sharecode.vn]QLBanHang_Full\[sharecode.vn]QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+C:\Users\VuDat\Documents\Visual Studio 2013\Projects\[sharecode.vn]QLBanHang_Full\[sharecode.vn]QLBanHang\QLBanHang\obj\x86\Debug\QLBanHang.exe
+C:\Users\VuDat\Documents\Visual Studio 2013\Projects\[sharecode.vn]QLBanHang_Full\[sharecode.vn]QLBanHang\QLBanHang\obj\x86\Debug\QLBanHang.pdb
+C:\Users\VuDat\Documents\Visual Studio 2013\Projects\[sharecode.vn]QLBanHang_Full\[sharecode.vn]QLBanHang\QLBanHang\bin\Debug\QLBanHang.mdf
+C:\Users\VuDat\Documents\Visual Studio 2013\Projects\[sharecode.vn]QLBanHang_Full\[sharecode.vn]QLBanHang\QLBanHang\bin\Debug\QLBanHang_log.ldf
+C:\Users\VuDat\Documents\Visual Studio 2013\Projects\[sharecode.vn]QLBanHang_Full\[sharecode.vn]QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+C:\Users\VuDat\Documents\Visual Studio 2013\Projects\[sharecode.vn]QLBanHang_Full\[sharecode.vn]QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+C:\Users\VuDat\Documents\Visual Studio 2013\Projects\[sharecode.vn]QLBanHang_Full\[sharecode.vn]QLBanHang\QLBanHang\obj\x86\Debug\QLBanHang.csprojResolveAssemblyReference.cache
+C:\Users\VuDat\Documents\Visual Studio 2013\Projects\[sharecode.vn]QLBanHang_Full\[sharecode.vn]QLBanHang\QLBanHang\obj\x86\Debug\QLBanHang.frmMatHang.resources
+C:\Users\VuDat\Documents\Visual Studio 2013\Projects\[sharecode.vn]QLBanHang_Full\[sharecode.vn]QLBanHang\QLBanHang\obj\x86\Debug\QLBanHang.Properties.Resources.resources
+C:\Users\VuDat\Documents\Visual Studio 2013\Projects\[sharecode.vn]QLBanHang_Full\[sharecode.vn]QLBanHang\QLBanHang\obj\x86\Debug\QLBanHang.csproj.GenerateResource.Cache
